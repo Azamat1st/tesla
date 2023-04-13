@@ -1,0 +1,54 @@
+@font-face{
+    font-family: 'Montserrat-Regular';
+    src: url(../fonts/Montserat/Montserrat-Medium.ttf);
+}
+
+@font-face{
+    font-family: 'Montserrat-Medium';
+    src: url(../fonts/Montserat/Montserrat-Medium.ttf);
+}
+
+@font-face{
+    font-family: 'BebasNeue-Regular';
+    src: url(../fonts/Bebus/BebasNeue-Regular.ttf);
+}
+
+@font-face{
+    font-family: 'Montserrat-Italic';
+    src: url(../fonts/Montserat/Montserrat-Italic.ttf);
+}
+@font-face{
+    font-family: 'TESLA';
+    src: url(../fonts/tesla/TESLA.ttf);
+}
+
+
+@font-face {
+    font-family: 'SF-Pro-Display-Light';
+    src: url(../fonts/sft/SF-Pro-Display-Light.otf);
+}
+
+@font-face {
+    font-family: 'SF-Pro-Display-Regular';
+    src: url(../fonts/sft/SF-Pro-Display-Regular.otf);
+}
+
+@font-face {
+    font-family: 'SF-Pro-Display-Medium';
+    src: url(../fonts/sft/SF-Pro-Display-Medium.otf);
+}
+
+@font-face {
+    font-family: 'SF-Pro-Display-Semibold';
+    src: url(../fonts/sft/SF-Pro-Display-Semibold.otf);
+}
+
+@font-face {
+    font-family: 'SF-Pro-Display-Bold';
+    src: url(../fonts/sft/SF-Pro-Display-Bold.otf);
+}
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url(../fonts/roboto/Roboto-Regular.ttf);
+}
